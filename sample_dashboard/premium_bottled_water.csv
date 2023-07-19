@@ -1,0 +1,1345 @@
+Continent,Country,Segment,Types,CAGR,Attribute,Value
+North America,United States,Product,Spring Water,0.07,2017,1890.543784
+North America,United States,Product,Spring Water,0.07,2018,2005.587049
+North America,United States,Product,Spring Water,0.07,2019,2132.083237
+North America,United States,Product,Spring Water,0.07,2020,1538.858924
+North America,United States,Product,Spring Water,0.07,2021,1632.054022
+North America,United States,Product,Spring Water,0.07,2022,1735.753075
+North America,United States,Product,Spring Water,0.07,2023,1849.469972
+North America,United States,Product,Spring Water,0.07,2024,1974.29065
+North America,United States,Product,Spring Water,0.07,2025,2111.435867
+North America,United States,Product,Spring Water,0.07,2026,2262.279429
+North America,United States,Product,Spring Water,0.07,2027,2428.369065
+North America,United States,Product,Spring Water,0.07,2028,2611.450411
+North America,United States,Product,Spring Water,0.07,2029,2813.494551
+North America,United States,Product,Spring Water,0.07,2030,3036.729708
+North America,United States,Product,Sparkling Water,0.08,2017,1191.143146
+North America,United States,Product,Sparkling Water,0.08,2018,1273.810745
+North America,United States,Product,Sparkling Water,0.08,2019,1365.032092
+North America,United States,Product,Sparkling Water,0.08,2020,993.1209198
+North America,United States,Product,Sparkling Water,0.08,2021,1061.675829
+North America,United States,Product,Sparkling Water,0.08,2022,1138.122575
+North America,United States,Product,Sparkling Water,0.08,2023,1222.311352
+North America,United States,Product,Sparkling Water,0.08,2024,1315.131075
+North America,United States,Product,Sparkling Water,0.08,2025,1417.585657
+North America,United States,Product,Sparkling Water,0.08,2026,1530.810207
+North America,United States,Product,Sparkling Water,0.08,2027,1656.089678
+North America,United States,Product,Sparkling Water,0.08,2028,1794.88038
+North America,United States,Product,Sparkling Water,0.08,2029,1948.834808
+North America,United States,Product,Sparkling Water,0.08,2030,2119.830347
+North America,United States,Product,Mineral Water,0.07,2017,2596.387963
+North America,United States,Product,Mineral Water,0.07,2018,2758.122013
+North America,United States,Product,Mineral Water,0.07,2019,2936.076118
+North America,United States,Product,Mineral Water,0.07,2020,2122.048267
+North America,United States,Product,Mineral Water,0.07,2021,2253.649568
+North America,United States,Product,Mineral Water,0.07,2022,2400.144156
+North America,United States,Product,Mineral Water,0.07,2023,2560.921872
+North America,United States,Product,Mineral Water,0.07,2024,2737.549247
+North America,United States,Product,Mineral Water,0.07,2025,2931.789005
+North America,United States,Product,Mineral Water,0.07,2026,3145.626819
+North America,United States,Product,Mineral Water,0.07,2027,3381.302005
+North America,United States,Product,Mineral Water,0.07,2028,3641.342806
+North America,United States,Product,Mineral Water,0.07,2029,3928.60696
+North America,United States,Product,Mineral Water,0.07,2030,4246.328434
+North America,United States,Product,Others,0.08,2017,481.1927875
+North America,United States,Product,Others,0.08,2018,512.5423649
+North America,United States,Product,Others,0.08,2019,547.0786705
+North America,United States,Product,Others,0.08,2020,396.4635992
+North America,United States,Product,Others,0.08,2021,422.1817467
+North America,United States,Product,Others,0.08,2022,450.8320865
+North America,United States,Product,Others,0.08,2023,482.3226648
+North America,United States,Product,Others,0.08,2024,516.9714514
+North America,United States,Product,Others,0.08,2025,555.1368353
+North America,United States,Product,Others,0.08,2026,597.2232192
+North America,United States,Product,Others,0.08,2027,643.6874508
+North America,United States,Product,Others,0.08,2028,695.0462259
+North America,United States,Product,Others,0.08,2029,751.884617
+North America,United States,Product,Others,0.08,2030,814.8659136
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2017,2565.419519
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2018,2718.875708
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2019,2887.558408
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2020,1829.793146
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2021,2045.265848
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2022,2172.581293
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2023,2302.829114
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2024,2445.425948
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2025,2601.67475
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2026,2773.037395
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2027,2961.155745
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2028,3167.875755
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2029,3395.275087
+North America,United States,Distribution Channel,Supermarkets & Hypermarkets,0.07,2030,3645.694771
+North America,United States,Distribution Channel,Specialty Stores,0.08,2017,1310.023734
+North America,United States,Distribution Channel,Specialty Stores,0.08,2018,1397.837161
+North America,United States,Distribution Channel,Specialty Stores,0.08,2019,1494.667059
+North America,United States,Distribution Channel,Specialty Stores,0.08,2020,1085.093024
+North America,United States,Distribution Channel,Specialty Stores,0.08,2021,1157.532457
+North America,United States,Distribution Channel,Specialty Stores,0.08,2022,1238.282438
+North America,United States,Distribution Channel,Specialty Stores,0.08,2023,1327.134168
+North America,United States,Distribution Channel,Specialty Stores,0.08,2024,1425.007259
+North America,United States,Distribution Channel,Specialty Stores,0.08,2025,1532.939461
+North America,United States,Distribution Channel,Specialty Stores,0.08,2026,1652.103189
+North America,United States,Distribution Channel,Specialty Stores,0.08,2027,1783.824543
+North America,United States,Distribution Channel,Specialty Stores,0.08,2028,1929.605224
+North America,United States,Distribution Channel,Specialty Stores,0.08,2029,2091.147824
+North America,United States,Distribution Channel,Specialty Stores,0.08,2030,2270.385028
+North America,United States,Distribution Channel,Online,0.09,2017,840.7430556
+North America,United States,Distribution Channel,Online,0.09,2018,912.3733959
+North America,United States,Distribution Channel,Online,0.09,2019,992.1844145
+North America,United States,Distribution Channel,Online,0.09,2020,984.8458834
+North America,United States,Distribution Channel,Online,0.09,2021,955.7818875
+North America,United States,Distribution Channel,Online,0.09,2022,1036.198192
+North America,United States,Distribution Channel,Online,0.09,2023,1125.164759
+North America,United States,Distribution Channel,Online,0.09,2024,1223.717233
+North America,United States,Distribution Channel,Online,0.09,2025,1333.029999
+North America,United States,Distribution Channel,Online,0.09,2026,1454.436357
+North America,United States,Distribution Channel,Online,0.09,2027,1589.451847
+North America,United States,Distribution Channel,Online,0.09,2028,1739.801245
+North America,United States,Distribution Channel,Online,0.09,2029,1907.449829
+North America,United States,Distribution Channel,Online,0.09,2030,2094.639652
+North America,United States,Distribution Channel,Others,0.07,2017,1443.081372
+North America,United States,Distribution Channel,Others,0.07,2018,1520.975906
+North America,United States,Distribution Channel,Others,0.07,2019,1605.860235
+North America,United States,Distribution Channel,Others,0.07,2020,1150.759656
+North America,United States,Distribution Channel,Others,0.07,2021,1210.980973
+North America,United States,Distribution Channel,Others,0.07,2022,1277.789969
+North America,United States,Distribution Channel,Others,0.07,2023,1359.89782
+North America,United States,Distribution Channel,Others,0.07,2024,1449.791983
+North America,United States,Distribution Channel,Others,0.07,2025,1548.303155
+North America,United States,Distribution Channel,Others,0.07,2026,1656.362733
+North America,United States,Distribution Channel,Others,0.07,2027,1775.016064
+North America,United States,Distribution Channel,Others,0.07,2028,1905.437598
+North America,United States,Distribution Channel,Others,0.07,2029,2048.948197
+North America,United States,Distribution Channel,Others,0.07,2030,2207.034951
+North America,Rest of North America,Product,Spring Water,0.07,2017,249.9403951
+North America,Rest of North America,Product,Spring Water,0.07,2018,264.6373074
+North America,Rest of North America,Product,Spring Water,0.07,2019,280.7839704
+North America,Rest of North America,Product,Spring Water,0.07,2020,202.2666697
+North America,Rest of North America,Product,Spring Water,0.07,2021,214.0997508
+North America,Rest of North America,Product,Spring Water,0.07,2022,227.2607524
+North America,Rest of North America,Product,Spring Water,0.07,2023,241.6781525
+North America,Rest of North America,Product,Spring Water,0.07,2024,257.4859572
+North America,Rest of North America,Product,Spring Water,0.07,2025,274.8346231
+North America,Rest of North America,Product,Spring Water,0.07,2026,293.8932534
+North America,Rest of North America,Product,Spring Water,0.07,2027,314.8521124
+North America,Rest of North America,Product,Spring Water,0.07,2028,337.9255088
+North America,Rest of North America,Product,Spring Water,0.07,2029,363.3551032
+North America,Rest of North America,Product,Spring Water,0.07,2030,391.413708
+North America,Rest of North America,Product,Sparkling Water,0.08,2017,151.6021873
+North America,Rest of North America,Product,Sparkling Water,0.08,2018,161.8366158
+North America,Rest of North America,Product,Sparkling Water,0.08,2019,173.1182965
+North America,Rest of North America,Product,Sparkling Water,0.08,2020,125.7269367
+North America,Rest of North America,Product,Sparkling Water,0.08,2021,134.1658875
+North America,Rest of North America,Product,Sparkling Water,0.08,2022,143.5691328
+North America,Rest of North America,Product,Sparkling Water,0.08,2023,153.9124116
+North America,Rest of North America,Product,Sparkling Water,0.08,2024,165.3021497
+North America,Rest of North America,Product,Sparkling Water,0.08,2025,177.8583873
+North America,Rest of North America,Product,Sparkling Water,0.08,2026,191.7166752
+North America,Rest of North America,Product,Sparkling Water,0.08,2027,207.0302563
+North America,Rest of North America,Product,Sparkling Water,0.08,2028,223.972577
+North America,Rest of North America,Product,Sparkling Water,0.08,2029,242.7401841
+North America,Rest of North America,Product,Sparkling Water,0.08,2030,263.5560673
+North America,Rest of North America,Product,Mineral Water,0.07,2017,349.1249602
+North America,Rest of North America,Product,Mineral Water,0.07,2018,370.1593296
+North America,Rest of North America,Product,Mineral Water,0.07,2019,393.2830255
+North America,Rest of North America,Product,Mineral Water,0.07,2020,283.6968827
+North America,Rest of North America,Product,Mineral Water,0.07,2021,300.7086009
+North America,Rest of North America,Product,Mineral Water,0.07,2022,319.6360005
+North America,Rest of North America,Product,Mineral Water,0.07,2023,340.3864963
+North America,Rest of North America,Product,Mineral Water,0.07,2024,363.1568966
+North America,Rest of North America,Product,Mineral Water,0.07,2025,388.1683804
+North America,Rest of North America,Product,Mineral Water,0.07,2026,415.6697803
+North America,Rest of North America,Product,Mineral Water,0.07,2027,445.9413469
+North America,Rest of North America,Product,Mineral Water,0.07,2028,479.2990672
+North America,Rest of North America,Product,Mineral Water,0.07,2029,516.0996263
+North America,Rest of North America,Product,Mineral Water,0.07,2030,556.7461122
+North America,Rest of North America,Product,Others,0.07,2017,58.3504206
+North America,Rest of North America,Product,Others,0.07,2018,62.03907574
+North America,Rest of North America,Product,Others,0.07,2019,66.0989468
+North America,Rest of North America,Product,Others,0.07,2020,47.81408135
+North America,Rest of North America,Product,Others,0.07,2021,50.82275684
+North America,Rest of North America,Product,Others,0.07,2022,54.17243806
+North America,Rest of North America,Product,Others,0.07,2023,57.85015858
+North America,Rest of North America,Product,Others,0.07,2024,61.89210923
+North America,Rest of North America,Product,Others,0.07,2025,66.33903083
+North America,Rest of North America,Product,Others,0.07,2026,71.23683699
+North America,Rest of North America,Product,Others,0.07,2027,76.63732916
+North America,Rest of North America,Product,Others,0.07,2028,82.59901862
+North America,Rest of North America,Product,Others,0.07,2029,89.18807234
+North America,Rest of North America,Product,Others,0.07,2030,96.47940264
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2017,339.752123
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2018,359.2844403
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2019,380.7359027
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2020,240.98297
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2021,268.5820871
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2022,284.6752312
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2023,301.2505473
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2024,319.3830341
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2025,339.2346638
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2026,360.9869808
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2027,384.8436699
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2028,411.0334909
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2029,439.8136373
+North America,Rest of North America,Distribution Channel,Supermarkets & Hypermarkets,0.07,2030,471.4735826
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2017,167.1897727
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2018,177.8707522
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2019,189.6306651
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2020,137.2606168
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2021,145.9908852
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2022,155.7128965
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2023,166.391339
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2024,178.132304
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2025,191.0552766
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2026,205.294977
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2027,221.003475
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2028,238.3526229
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2029,257.5368551
+North America,Rest of North America,Distribution Channel,Specialty Stores,0.08,2030,278.7764163
+North America,Rest of North America,Distribution Channel,Online,0.09,2017,120.3498836
+North America,Rest of North America,Distribution Channel,Online,0.09,2018,130.3826264
+North America,Rest of North America,Distribution Channel,Online,0.09,2019,141.5477491
+North America,Rest of North America,Distribution Channel,Online,0.09,2020,130.7138058
+North America,Rest of North America,Distribution Channel,Online,0.09,2021,127.0131548
+North America,Rest of North America,Distribution Channel,Online,0.09,2022,137.6091622
+North America,Rest of North America,Distribution Channel,Online,0.09,2023,149.3188999
+North America,Rest of North America,Distribution Channel,Online,0.09,2024,162.2760234
+North America,Rest of North America,Distribution Channel,Online,0.09,2025,176.6319221
+North America,Rest of North America,Distribution Channel,Online,0.09,2026,192.5582761
+North America,Rest of North America,Distribution Channel,Online,0.09,2027,210.2500083
+North America,Rest of North America,Distribution Channel,Online,0.09,2028,229.9286967
+North America,Rest of North America,Distribution Channel,Online,0.09,2029,251.8465228
+North America,Rest of North America,Distribution Channel,Online,0.09,2030,276.2908453
+North America,Rest of North America,Distribution Channel,Others,0.07,2017,181.7261839
+North America,Rest of North America,Distribution Channel,Others,0.07,2018,191.1345098
+North America,Rest of North America,Distribution Channel,Others,0.07,2019,201.3699222
+North America,Rest of North America,Distribution Channel,Others,0.07,2020,150.5471777
+North America,Rest of North America,Distribution Channel,Others,0.07,2021,158.210869
+North America,Rest of North America,Distribution Channel,Others,0.07,2022,166.6410339
+North America,Rest of North America,Distribution Channel,Others,0.07,2023,176.8664328
+North America,Rest of North America,Distribution Channel,Others,0.07,2024,188.0457513
+North America,Rest of North America,Distribution Channel,Others,0.07,2025,200.2785592
+North America,Rest of North America,Distribution Channel,Others,0.07,2026,213.6763121
+North America,Rest of North America,Distribution Channel,Others,0.07,2027,228.3638915
+North America,Rest of North America,Distribution Channel,Others,0.07,2028,244.4813612
+North America,Rest of North America,Distribution Channel,Others,0.07,2029,262.1859707
+North America,Rest of North America,Distribution Channel,Others,0.07,2030,281.654446
+Europe,Germany,Product,Spring Water,0.05,2017,498.1808956
+Europe,Germany,Product,Spring Water,0.05,2018,518.9186029
+Europe,Germany,Product,Spring Water,0.05,2019,541.5787021
+Europe,Germany,Product,Spring Water,0.05,2020,383.704107
+Europe,Germany,Product,Spring Water,0.05,2021,399.4027613
+Europe,Germany,Product,Spring Water,0.05,2022,416.8503099
+Europe,Germany,Product,Spring Water,0.05,2023,435.8026809
+Europe,Germany,Product,Spring Water,0.05,2024,456.3907616
+Europe,Germany,Product,Spring Water,0.05,2025,478.7594631
+Europe,Germany,Product,Spring Water,0.05,2026,503.0692818
+Europe,Germany,Product,Spring Water,0.05,2027,529.4980538
+Europe,Germany,Product,Spring Water,0.05,2028,558.2429254
+Europe,Germany,Product,Spring Water,0.05,2029,589.5225682
+Europe,Germany,Product,Spring Water,0.05,2030,623.57967
+Europe,Germany,Product,Sparkling Water,0.06,2017,317.3489265
+Europe,Germany,Product,Sparkling Water,0.06,2018,333.2117013
+Europe,Germany,Product,Sparkling Water,0.06,2019,350.5443591
+Europe,Germany,Product,Sparkling Water,0.06,2020,250.338575
+Europe,Germany,Product,Sparkling Water,0.06,2021,262.6527728
+Europe,Germany,Product,Sparkling Water,0.06,2022,276.2997453
+Europe,Germany,Product,Sparkling Water,0.06,2023,291.1452198
+Europe,Germany,Product,Sparkling Water,0.06,2024,307.302542
+Europe,Germany,Product,Sparkling Water,0.06,2025,324.897597
+Europe,Germany,Product,Sparkling Water,0.06,2026,344.0702878
+Europe,Germany,Product,Sparkling Water,0.06,2027,364.9762038
+Europe,Germany,Product,Sparkling Water,0.06,2028,387.7885017
+Europe,Germany,Product,Sparkling Water,0.06,2029,412.7000307
+Europe,Germany,Product,Sparkling Water,0.06,2030,439.9257312
+Europe,Germany,Product,Mineral Water,0.05,2017,683.1588835
+Europe,Germany,Product,Mineral Water,0.05,2018,712.564566
+Europe,Germany,Product,Mineral Water,0.05,2019,744.6959452
+Europe,Germany,Product,Mineral Water,0.05,2020,528.3338058
+Europe,Germany,Product,Mineral Water,0.05,2021,550.7058355
+Europe,Germany,Product,Mineral Water,0.05,2022,575.5559414
+Europe,Germany,Product,Mineral Water,0.05,2023,602.5571636
+Europe,Germany,Product,Mineral Water,0.05,2024,631.8999246
+Europe,Germany,Product,Mineral Water,0.05,2025,663.7951933
+Europe,Germany,Product,Mineral Water,0.05,2026,698.4768036
+Europe,Germany,Product,Mineral Water,0.05,2027,736.2040604
+Europe,Germany,Product,Mineral Water,0.05,2028,777.2646711
+Europe,Germany,Product,Mineral Water,0.05,2029,821.9780427
+Europe,Germany,Product,Mineral Water,0.05,2030,870.6989948
+Europe,Germany,Product,Others,0.06,2017,129.6570291
+Europe,Germany,Product,Others,0.06,2018,135.5983873
+Europe,Germany,Product,Others,0.06,2019,142.0903879
+Europe,Germany,Product,Others,0.06,2020,101.0762163
+Europe,Germany,Product,Others,0.06,2021,105.6366406
+Europe,Germany,Product,Others,0.06,2022,110.6970984
+Europe,Germany,Product,Others,0.06,2023,116.1984173
+Europe,Germany,Product,Others,0.06,2024,122.1808101
+Europe,Germany,Product,Others,0.06,2025,128.6888788
+Europe,Germany,Product,Others,0.06,2026,135.7721209
+Europe,Germany,Product,Others,0.06,2027,143.4854987
+Europe,Germany,Product,Others,0.06,2028,151.8900805
+Europe,Germany,Product,Others,0.06,2029,161.0537636
+Europe,Germany,Product,Others,0.06,2030,171.0520894
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2017,667.7988333
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2018,695.2268843
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2019,725.2040887
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2020,450.420889
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2021,494.6629334
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2022,515.8967575
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2023,534.3092685
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2024,554.322465
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2025,576.0610713
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2026,599.6629104
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2027,625.2802532
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2028,653.0813289
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2029,683.2520157
+Europe,Germany,Distribution Channel,Supermarkets & Hypermarkets,0.04,2030,715.9977307
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2017,344.1901858
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2018,360.328522
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2019,377.964997
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2020,269.1408927
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2021,281.5724658
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2022,295.3641539
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2023,310.3621586
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2024,326.6777852
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2025,344.4345572
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2026,363.769636
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2027,384.8354204
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2028,407.8013501
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2029,432.8559385
+Europe,Germany,Distribution Channel,Specialty Stores,0.06,2030,460.2090677
+Europe,Germany,Distribution Channel,Online,0.08,2017,222.1793825
+Europe,Germany,Distribution Channel,Online,0.08,2018,238.1631947
+Europe,Germany,Distribution Channel,Online,0.08,2019,255.7986942
+Europe,Germany,Distribution Channel,Online,0.08,2020,249.6582544
+Europe,Germany,Distribution Channel,Online,0.08,2021,226.1052588
+Europe,Germany,Distribution Channel,Online,0.08,2022,242.2231835
+Europe,Germany,Distribution Channel,Online,0.08,2023,259.7929156
+Europe,Germany,Distribution Channel,Online,0.08,2024,278.9668682
+Europe,Germany,Distribution Channel,Online,0.08,2025,299.9149187
+Europe,Germany,Distribution Channel,Online,0.08,2026,322.8265909
+Europe,Germany,Distribution Channel,Online,0.08,2027,347.9135245
+Europe,Germany,Distribution Channel,Online,0.08,2028,375.412273
+Europe,Germany,Distribution Channel,Online,0.08,2029,405.587475
+Europe,Germany,Distribution Channel,Online,0.08,2030,438.7354516
+Europe,Germany,Distribution Channel,Others,0.05,2017,394.1773331
+Europe,Germany,Distribution Channel,Others,0.05,2018,406.5746565
+Europe,Germany,Distribution Channel,Others,0.05,2019,419.9416143
+Europe,Germany,Distribution Channel,Others,0.05,2020,294.2326681
+Europe,Germany,Distribution Channel,Others,0.05,2021,316.0573522
+Europe,Germany,Distribution Channel,Others,0.05,2022,325.9190001
+Europe,Germany,Distribution Channel,Others,0.05,2023,341.2391389
+Europe,Germany,Distribution Channel,Others,0.05,2024,357.8069199
+Europe,Germany,Distribution Channel,Others,0.05,2025,375.7305849
+Europe,Germany,Distribution Channel,Others,0.05,2026,395.1293568
+Europe,Germany,Distribution Channel,Others,0.05,2027,416.1346186
+Europe,Germany,Distribution Channel,Others,0.05,2028,438.8912266
+Europe,Germany,Distribution Channel,Others,0.05,2029,463.558976
+Europe,Germany,Distribution Channel,Others,0.05,2030,490.3142355
+Europe,France,Product,Spring Water,0.05,2017,553.7218314
+Europe,France,Product,Spring Water,0.05,2018,575.6274559
+Europe,France,Product,Spring Water,0.05,2019,599.5674819
+Europe,France,Product,Spring Water,0.05,2020,423.9393228
+Europe,France,Product,Spring Water,0.05,2021,440.3982481
+Europe,France,Product,Spring Water,0.05,2022,458.7101987
+Europe,France,Product,Spring Water,0.05,2023,478.5952365
+Europe,France,Product,Spring Water,0.05,2024,500.1864947
+Europe,France,Product,Spring Water,0.05,2025,523.6312323
+Europe,France,Product,Spring Water,0.05,2026,549.0923758
+Europe,France,Product,Spring Water,0.05,2027,576.7502473
+Europe,France,Product,Spring Water,0.05,2028,606.8045052
+Europe,France,Product,Spring Water,0.05,2029,639.47632
+Europe,France,Product,Spring Water,0.05,2030,675.0108185
+Europe,France,Product,Sparkling Water,0.06,2017,351.792452
+Europe,France,Product,Sparkling Water,0.06,2018,368.6448195
+Europe,France,Product,Sparkling Water,0.06,2019,387.0488632
+Europe,France,Product,Sparkling Water,0.06,2020,275.8557264
+Europe,France,Product,Sparkling Water,0.06,2021,288.8445002
+Europe,France,Product,Sparkling Water,0.06,2022,303.2403084
+Europe,France,Product,Sparkling Water,0.06,2023,318.8870377
+Europe,France,Product,Sparkling Water,0.06,2024,335.9003944
+Europe,France,Product,Sparkling Water,0.06,2025,354.408719
+Europe,France,Product,Sparkling Water,0.06,2026,374.5544506
+Europe,France,Product,Sparkling Water,0.06,2027,396.4957759
+Europe,France,Product,Sparkling Water,0.06,2028,420.4084868
+Europe,France,Product,Sparkling Water,0.06,2029,446.4880739
+Europe,France,Product,Sparkling Water,0.06,2030,474.952087
+Europe,France,Product,Mineral Water,0.05,2017,758.6257003
+Europe,France,Product,Mineral Water,0.05,2018,789.7076331
+Europe,France,Product,Mineral Water,0.05,2019,823.6712881
+Europe,France,Product,Mineral Water,0.05,2020,583.1935109
+Europe,France,Product,Mineral Water,0.05,2021,606.6662051
+Europe,France,Product,Mineral Water,0.05,2022,632.7614046
+Europe,France,Product,Mineral Water,0.05,2023,661.1035064
+Europe,France,Product,Mineral Water,0.05,2024,691.8862571
+Europe,France,Product,Mineral Water,0.05,2025,725.3240904
+Europe,France,Product,Mineral Water,0.05,2026,761.6544165
+Europe,France,Product,Mineral Water,0.05,2027,801.1401907
+Europe,France,Product,Mineral Water,0.05,2028,844.0727993
+Europe,France,Product,Mineral Water,0.05,2029,890.7753007
+Europe,France,Product,Mineral Water,0.05,2030,941.6060681
+Europe,France,Product,Others,0.05,2017,142.7928687
+Europe,France,Product,Others,0.05,2018,149.0411139
+Europe,France,Product,Others,0.05,2019,155.8669007
+Europe,France,Product,Others,0.05,2020,110.6553244
+Europe,France,Product,Others,0.05,2021,115.4166702
+Europe,France,Product,Others,0.05,2022,120.7027802
+Europe,France,Product,Others,0.05,2023,126.4459025
+Europe,France,Product,Others,0.05,2024,132.6867236
+Europe,France,Product,Others,0.05,2025,139.4703198
+Europe,France,Product,Others,0.05,2026,146.8466539
+Europe,France,Product,Others,0.05,2027,154.8711336
+Europe,France,Product,Others,0.05,2028,163.6052388
+Europe,France,Product,Others,0.05,2029,173.1172288
+Europe,France,Product,Others,0.05,2030,183.4829365
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2017,749.7914956
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2018,777.9670977
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2019,808.7816244
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2020,501.1543409
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2021,548.3108206
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2022,569.7959242
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2023,591.6433134
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2024,615.3707817
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2025,641.1305367
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2026,669.0907795
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2027,699.4373945
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2028,732.3758415
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2029,768.1332742
+Europe,France,Distribution Channel,Supermarkets & Hypermarkets,0.04,2030,806.9609125
+Europe,France,Distribution Channel,Specialty Stores,0.05,2017,378.7993714
+Europe,France,Distribution Channel,Specialty Stores,0.05,2018,395.5746385
+Europe,France,Distribution Channel,Specialty Stores,0.05,2019,413.9014577
+Europe,France,Distribution Channel,Specialty Stores,0.05,2020,293.9931124
+Europe,France,Distribution Channel,Specialty Stores,0.05,2021,306.8006258
+Europe,France,Distribution Channel,Specialty Stores,0.05,2022,321.0176471
+Europe,France,Distribution Channel,Specialty Stores,0.05,2023,336.4661642
+Europe,France,Distribution Channel,Specialty Stores,0.05,2024,353.2565117
+Europe,France,Distribution Channel,Specialty Stores,0.05,2025,371.5109635
+Europe,France,Distribution Channel,Specialty Stores,0.05,2026,391.3650909
+Europe,France,Distribution Channel,Specialty Stores,0.05,2027,412.969288
+Europe,France,Distribution Channel,Specialty Stores,0.05,2028,436.4904891
+Europe,France,Distribution Channel,Specialty Stores,0.05,2029,462.1141014
+Europe,France,Distribution Channel,Specialty Stores,0.05,2030,490.0461814
+Europe,France,Distribution Channel,Online,0.07,2017,236.8542328
+Europe,France,Distribution Channel,Online,0.07,2018,252.5417556
+Europe,France,Distribution Channel,Online,0.07,2019,269.7954157
+Europe,France,Distribution Channel,Online,0.07,2020,265.3497956
+Europe,France,Distribution Channel,Online,0.07,2021,251.9501283
+Europe,France,Distribution Channel,Online,0.07,2022,268.2284005
+Europe,France,Distribution Channel,Online,0.07,2023,285.9397156
+Europe,France,Distribution Channel,Online,0.07,2024,305.2292841
+Europe,France,Distribution Channel,Online,0.07,2025,326.2585925
+Europe,France,Distribution Channel,Online,0.07,2026,349.2073891
+Europe,France,Distribution Channel,Online,0.07,2027,374.2759254
+Europe,France,Distribution Channel,Online,0.07,2028,401.6874894
+Europe,France,Distribution Channel,Online,0.07,2029,431.6912702
+Europe,France,Distribution Channel,Online,0.07,2030,464.5656
+Europe,France,Distribution Channel,Others,0.05,2017,441.4877525
+Europe,France,Distribution Channel,Others,0.05,2018,456.9375307
+Europe,France,Distribution Channel,Others,0.05,2019,473.676036
+Europe,France,Distribution Channel,Others,0.05,2020,333.1466357
+Europe,France,Distribution Channel,Others,0.05,2021,344.264049
+Europe,France,Distribution Channel,Others,0.05,2022,356.3727202
+Europe,France,Distribution Channel,Others,0.05,2023,370.9824898
+Europe,France,Distribution Channel,Others,0.05,2024,386.8032923
+Europe,France,Distribution Channel,Others,0.05,2025,403.9342688
+Europe,France,Distribution Channel,Others,0.05,2026,422.4846372
+Europe,France,Distribution Channel,Others,0.05,2027,442.5747396
+Europe,France,Distribution Channel,Others,0.05,2028,464.3372103
+Europe,France,Distribution Channel,Others,0.05,2029,487.9182777
+Europe,France,Distribution Channel,Others,0.05,2030,513.4792161
+Europe,Rest of Europe,Product,Spring Water,0.05,2017,1307.50268
+Europe,Rest of Europe,Product,Spring Water,0.05,2018,1365.536837
+Europe,Rest of Europe,Product,Spring Water,0.05,2019,1428.938994
+Europe,Rest of Europe,Product,Spring Water,0.05,2020,1015.069461
+Europe,Rest of Europe,Product,Spring Water,0.05,2021,1059.392415
+Europe,Rest of Europe,Product,Spring Water,0.05,2022,1108.591871
+Europe,Rest of Europe,Product,Spring Water,0.05,2023,1162.054538
+Europe,Rest of Europe,Product,Spring Water,0.05,2024,1220.162863
+Europe,Rest of Europe,Product,Spring Water,0.05,2025,1283.340708
+Europe,Rest of Europe,Product,Spring Water,0.05,2026,1352.05806
+Europe,Rest of Europe,Product,Spring Water,0.05,2027,1426.836332
+Europe,Rest of Europe,Product,Spring Water,0.05,2028,1508.254323
+Europe,Rest of Europe,Product,Spring Water,0.05,2029,1596.954937
+Europe,Rest of Europe,Product,Spring Water,0.05,2030,1693.652739
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2017,831.7923418
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2018,875.683468
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2019,923.6728178
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2020,661.3791287
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2021,695.7472365
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2022,733.8309765
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2023,775.30136
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2024,820.4868708
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2025,869.7528568
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2026,923.5059586
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2027,982.1991116
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2028,1046.337199
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2029,1116.483448
+Europe,Rest of Europe,Product,Sparkling Water,0.06,2030,1193.266658
+Europe,Rest of Europe,Product,Mineral Water,0.06,2017,1792.163997
+Europe,Rest of Europe,Product,Mineral Water,0.06,2018,1874.252986
+Europe,Rest of Europe,Product,Mineral Water,0.06,2019,1963.948991
+Europe,Rest of Europe,Product,Mineral Water,0.06,2020,1397.031215
+Europe,Rest of Europe,Product,Mineral Water,0.06,2021,1460.034632
+Europe,Rest of Europe,Product,Mineral Water,0.06,2022,1529.94588
+Europe,Rest of Europe,Product,Mineral Water,0.06,2023,1605.946645
+Europe,Rest of Europe,Product,Mineral Water,0.06,2024,1688.592211
+Europe,Rest of Europe,Product,Mineral Water,0.06,2025,1778.498462
+Europe,Rest of Europe,Product,Mineral Water,0.06,2026,1876.348862
+Europe,Rest of Europe,Product,Mineral Water,0.06,2027,1982.902319
+Europe,Rest of Europe,Product,Mineral Water,0.06,2028,2099.002031
+Europe,Rest of Europe,Product,Mineral Water,0.06,2029,2225.585466
+Europe,Rest of Europe,Product,Mineral Water,0.06,2030,2363.695607
+Europe,Rest of Europe,Product,Others,0.06,2017,338.7329803
+Europe,Rest of Europe,Product,Others,0.06,2018,355.1945608
+Europe,Rest of Europe,Product,Others,0.06,2019,373.1866539
+Europe,Rest of Europe,Product,Others,0.06,2020,266.1700972
+Europe,Rest of Europe,Product,Others,0.06,2021,278.9157359
+Europe,Rest of Europe,Product,Others,0.06,2022,293.050247
+Europe,Rest of Europe,Product,Others,0.06,2023,308.4272643
+Europe,Rest of Europe,Product,Others,0.06,2024,325.1633007
+Europe,Rest of Europe,Product,Others,0.06,2025,343.3877506
+Europe,Rest of Europe,Product,Others,0.06,2026,363.2444036
+Europe,Rest of Europe,Product,Others,0.06,2027,384.8931508
+Europe,Rest of Europe,Product,Others,0.06,2028,408.511911
+Europe,Rest of Europe,Product,Others,0.06,2029,434.2988035
+Europe,Rest of Europe,Product,Others,0.06,2030,462.4746038
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2017,1743.741729
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2018,1818.40504
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2019,1899.989238
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2020,1180.56624
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2021,1299.452078
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2022,1357.671188
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2023,1414.988161
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2024,1477.236946
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2025,1544.8385
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2026,1618.258575
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2027,1698.012629
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2028,1784.671343
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2029,1878.866809
+Europe,Rest of Europe,Distribution Channel,Supermarkets & Hypermarkets,0.05,2030,1981.299476
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2017,892.0143978
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2018,935.3258623
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2019,982.6663181
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2020,700.8476664
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2021,734.3834069
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2022,771.575565
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2023,812.0387093
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2024,856.0796015
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2025,904.0389338
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2026,956.2953175
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2027,1013.26978
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2028,1075.430841
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2029,1143.300236
+Europe,Rest of Europe,Distribution Channel,Specialty Stores,0.06,2030,1217.459396
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2017,635.4792262
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2018,679.7709518
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2019,728.5777346
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2020,696.9849346
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2021,636.6232017
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2022,680.6683036
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2023,728.7472796
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2024,781.2838909
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2025,838.7510323
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2026,901.6769097
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2027,970.6520415
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2028,1046.337199
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2029,1129.472422
+Europe,Rest of Europe,Distribution Channel,Online,0.08,2030,1220.887249
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2017,998.9566457
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2018,1037.165997
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2019,1078.514166
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2020,761.2510607
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2021,823.6313331
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2022,855.5039179
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2023,895.9556571
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2024,939.8048077
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2025,987.3513114
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2026,1038.926483
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2027,1094.896462
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2028,1155.666081
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2029,1221.683186
+Europe,Rest of Europe,Distribution Channel,Others,0.05,2030,1293.443487
+Asia Pacific,China,Product,Spring Water,0.08,2017,497.9287628
+Asia Pacific,China,Product,Spring Water,0.08,2018,534.9708605
+Asia Pacific,China,Product,Spring Water,0.08,2019,575.8074789
+Asia Pacific,China,Product,Spring Water,0.08,2020,420.6659354
+Asia Pacific,China,Product,Spring Water,0.08,2021,451.4644374
+Asia Pacific,China,Product,Spring Water,0.08,2022,485.7541726
+Asia Pacific,China,Product,Spring Water,0.08,2023,523.4899917
+Asia Pacific,China,Product,Spring Water,0.08,2024,565.0686878
+Asia Pacific,China,Product,Spring Water,0.08,2025,610.9379664
+Asia Pacific,China,Product,Spring Water,0.08,2026,661.6035686
+Asia Pacific,China,Product,Spring Water,0.08,2027,717.6374662
+Asia Pacific,China,Product,Spring Water,0.08,2028,779.6872994
+Asia Pacific,China,Product,Spring Water,0.08,2029,848.4872587
+Asia Pacific,China,Product,Spring Water,0.08,2030,924.8706449
+Asia Pacific,China,Product,Sparkling Water,0.09,2017,319.8267824
+Asia Pacific,China,Product,Sparkling Water,0.09,2018,346.3655005
+Asia Pacific,China,Product,Sparkling Water,0.09,2019,375.775303
+Asia Pacific,China,Product,Sparkling Water,0.09,2020,276.7097164
+Asia Pacific,China,Product,Sparkling Water,0.09,2021,299.3205919
+Asia Pacific,China,Product,Sparkling Water,0.09,2022,324.5978056
+Asia Pacific,China,Product,Sparkling Water,0.09,2023,352.5685475
+Asia Pacific,China,Product,Sparkling Water,0.09,2024,383.5596114
+Asia Pacific,China,Product,Sparkling Water,0.09,2025,417.9416298
+Asia Pacific,China,Product,Sparkling Water,0.09,2026,456.1354577
+Asia Pacific,China,Product,Sparkling Water,0.09,2027,498.6195529
+Asia Pacific,China,Product,Sparkling Water,0.09,2028,545.9385162
+Asia Pacific,China,Product,Sparkling Water,0.09,2029,598.7129883
+Asia Pacific,China,Product,Sparkling Water,0.09,2030,657.6511286
+Asia Pacific,China,Product,Mineral Water,0.09,2017,681.1595587
+Asia Pacific,China,Product,Mineral Water,0.09,2018,732.8277605
+Asia Pacific,China,Product,Mineral Water,0.09,2019,789.8440201
+Asia Pacific,China,Product,Mineral Water,0.09,2020,577.8242186
+Asia Pacific,China,Product,Mineral Water,0.09,2021,620.9811692
+Asia Pacific,China,Product,Mineral Water,0.09,2022,669.0676824
+Asia Pacific,China,Product,Mineral Water,0.09,2023,722.0423572
+Asia Pacific,China,Product,Mineral Water,0.09,2024,780.4740667
+Asia Pacific,China,Product,Mineral Water,0.09,2025,845.0053673
+Asia Pacific,China,Product,Mineral Water,0.09,2026,916.3628988
+Asia Pacific,China,Product,Mineral Water,0.09,2027,995.3693615
+Asia Pacific,China,Product,Mineral Water,0.09,2028,1082.957326
+Asia Pacific,China,Product,Mineral Water,0.09,2029,1180.185171
+Asia Pacific,China,Product,Mineral Water,0.09,2030,1288.255504
+Asia Pacific,China,Product,Others,0.09,2017,131.2707129
+Asia Pacific,China,Product,Others,0.09,2018,141.6025849
+Asia Pacific,China,Product,Others,0.09,2019,153.0242867
+Asia Pacific,China,Product,Others,0.09,2020,112.2442275
+Asia Pacific,China,Product,Others,0.09,2021,120.9470946
+Asia Pacific,China,Product,Others,0.09,2022,130.6577847
+Asia Pacific,China,Product,Others,0.09,2023,141.3759834
+Asia Pacific,China,Product,Others,0.09,2024,153.2211328
+Asia Pacific,China,Product,Others,0.09,2025,166.328394
+Asia Pacific,China,Product,Others,0.09,2026,180.850898
+Asia Pacific,China,Product,Others,0.09,2027,196.9623429
+Asia Pacific,China,Product,Others,0.09,2028,214.8599927
+Asia Pacific,China,Product,Others,0.09,2029,234.7681461
+Asia Pacific,China,Product,Others,0.09,2030,256.942151
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2017,653.1087168
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2018,700.7635621
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2019,753.2591768
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2020,480.1944023
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2021,544.2432666
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2022,584.6191204
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2023,626.8034255
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2024,673.1214282
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2025,724.0377172
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2026,780.0753165
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2027,841.8237145
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2028,909.9480813
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2029,985.1998606
+Asia Pacific,China,Distribution Channel,Supermarkets & Hypermarkets,0.08,2030,1068.428957
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2017,325.7548205
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2018,351.5001229
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2019,379.9679796
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2020,278.794388
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2021,300.5037284
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2022,324.7320555
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2023,351.4811081
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2024,381.0504871
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2025,413.7793135
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2026,450.0519
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2027,490.3042962
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2028,535.0318496
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2029,584.7979521
+Asia Pacific,China,Distribution Channel,Specialty Stores,0.09,2030,640.244167
+Asia Pacific,China,Distribution Channel,Online,0.11,2017,231.1643748
+Asia Pacific,China,Distribution Channel,Online,0.11,2018,254.5565319
+Asia Pacific,China,Distribution Channel,Online,0.11,2019,280.8241638
+Asia Pacific,China,Distribution Channel,Online,0.11,2020,279.7087301
+Asia Pacific,China,Distribution Channel,Online,0.11,2021,276.1519592
+Asia Pacific,China,Distribution Channel,Online,0.11,2022,303.3385907
+Asia Pacific,China,Distribution Channel,Online,0.11,2023,333.6316655
+Asia Pacific,China,Distribution Channel,Online,0.11,2024,367.4295469
+Asia Pacific,China,Distribution Channel,Online,0.11,2025,405.1863728
+Asia Pacific,China,Distribution Channel,Online,0.11,2026,447.4204703
+Asia Pacific,China,Distribution Channel,Online,0.11,2027,494.7241238
+Asia Pacific,China,Distribution Channel,Online,0.11,2028,547.7749264
+Asia Pacific,China,Distribution Channel,Online,0.11,2029,607.3489862
+Asia Pacific,China,Distribution Channel,Online,0.11,2030,674.3363088
+Asia Pacific,China,Distribution Channel,Others,0.08,2017,420.1579048
+Asia Pacific,China,Distribution Channel,Others,0.08,2018,448.9464896
+Asia Pacific,China,Distribution Channel,Others,0.08,2019,480.3997684
+Asia Pacific,China,Distribution Channel,Others,0.08,2020,348.7465775
+Asia Pacific,China,Distribution Channel,Others,0.08,2021,371.8143387
+Asia Pacific,China,Distribution Channel,Others,0.08,2022,397.3876787
+Asia Pacific,China,Distribution Channel,Others,0.08,2023,427.5606806
+Asia Pacific,China,Distribution Channel,Others,0.08,2024,460.7220365
+Asia Pacific,China,Distribution Channel,Others,0.08,2025,497.209954
+Asia Pacific,China,Distribution Channel,Others,0.08,2026,537.4051364
+Asia Pacific,China,Distribution Channel,Others,0.08,2027,581.736589
+Asia Pacific,China,Distribution Channel,Others,0.08,2028,630.6882768
+Asia Pacific,China,Distribution Channel,Others,0.08,2029,684.8067648
+Asia Pacific,China,Distribution Channel,Others,0.08,2030,744.7099959
+Asia Pacific,India,Product,Spring Water,0.09,2017,149.1401703
+Asia Pacific,India,Product,Spring Water,0.09,2018,160.4677328
+Asia Pacific,India,Product,Spring Water,0.09,2019,172.9673805
+Asia Pacific,India,Product,Spring Water,0.09,2020,126.5472525
+Asia Pacific,India,Product,Spring Water,0.09,2021,136.0086541
+Asia Pacific,India,Product,Spring Water,0.09,2022,146.550166
+Asia Pacific,India,Product,Spring Water,0.09,2023,158.1627087
+Asia Pacific,India,Product,Spring Water,0.09,2024,170.9708422
+Asia Pacific,India,Product,Spring Water,0.09,2025,185.1152444
+Asia Pacific,India,Product,Spring Water,0.09,2026,200.7549841
+Asia Pacific,India,Product,Spring Water,0.09,2027,218.0701374
+Asia Pacific,India,Product,Spring Water,0.09,2028,237.2648045
+Asia Pacific,India,Product,Spring Water,0.09,2029,258.5705901
+Asia Pacific,India,Product,Spring Water,0.09,2030,282.2506262
+Asia Pacific,India,Product,Sparkling Water,0.09,2017,94.75224421
+Asia Pacific,India,Product,Sparkling Water,0.09,2018,102.7671592
+Asia Pacific,India,Product,Sparkling Water,0.09,2019,111.6585372
+Asia Pacific,India,Product,Sparkling Water,0.09,2020,82.3438223
+Asia Pacific,India,Product,Sparkling Water,0.09,2021,89.20415072
+Asia Pacific,India,Product,Sparkling Water,0.09,2022,96.88016015
+Asia Pacific,India,Product,Sparkling Water,0.09,2023,105.3834928
+Asia Pacific,India,Product,Sparkling Water,0.09,2024,114.8155217
+Asia Pacific,India,Product,Sparkling Water,0.09,2025,125.2913359
+Asia Pacific,India,Product,Sparkling Water,0.09,2026,136.9417535
+Asia Pacific,India,Product,Sparkling Water,0.09,2027,149.9156502
+Asia Pacific,India,Product,Sparkling Water,0.09,2028,164.382658
+Asia Pacific,India,Product,Sparkling Water,0.09,2029,180.5362938
+Asia Pacific,India,Product,Sparkling Water,0.09,2030,198.5975933
+Asia Pacific,India,Product,Mineral Water,0.09,2017,204.3292493
+Asia Pacific,India,Product,Mineral Water,0.09,2018,220.1468886
+Asia Pacific,India,Product,Mineral Water,0.09,2019,237.618399
+Asia Pacific,India,Product,Mineral Water,0.09,2020,174.0851402
+Asia Pacific,India,Product,Mineral Water,0.09,2021,187.357362
+Asia Pacific,India,Product,Mineral Water,0.09,2022,202.1565884
+Asia Pacific,India,Product,Mineral Water,0.09,2023,218.476728
+Asia Pacific,India,Product,Mineral Water,0.09,2024,236.4965414
+Asia Pacific,India,Product,Mineral Water,0.09,2025,256.4181393
+Asia Pacific,India,Product,Mineral Water,0.09,2026,278.470303
+Asia Pacific,India,Product,Mineral Water,0.09,2027,302.9123131
+Asia Pacific,India,Product,Mineral Water,0.09,2028,330.0383665
+Asia Pacific,India,Product,Mineral Water,0.09,2029,360.1826807
+Asia Pacific,India,Product,Mineral Water,0.09,2030,393.7253968
+Asia Pacific,India,Product,Others,0.09,2017,38.46002006
+Asia Pacific,India,Product,Others,0.09,2018,41.54820865
+Asia Pacific,India,Product,Others,0.09,2019,44.96556323
+Asia Pacific,India,Product,Others,0.09,2020,33.03097053
+Asia Pacific,India,Product,Others,0.09,2021,35.64425162
+Asia Pacific,India,Product,Others,0.09,2022,38.56250094
+Asia Pacific,India,Product,Others,0.09,2023,41.78693168
+Asia Pacific,India,Product,Others,0.09,2024,45.35420512
+Asia Pacific,India,Product,Others,0.09,2025,49.30584873
+Asia Pacific,India,Product,Others,0.09,2026,53.68895831
+Asia Pacific,India,Product,Others,0.09,2027,58.55700893
+Asia Pacific,India,Product,Others,0.09,2028,63.97079236
+Asia Pacific,India,Product,Others,0.09,2029,69.9995021
+Asia Pacific,India,Product,Others,0.09,2030,76.72199069
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2017,204.1427002
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2018,219.4211486
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2019,236.2703
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2020,151.8842234
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2021,171.9798723
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2022,185.0419066
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2023,198.6253026
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2024,213.5511435
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2025,229.9715412
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2026,248.0578696
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2027,268.0034275
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2028,290.0264974
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2029,314.3738639
+Asia Pacific,India,Distribution Channel,Supermarkets & Hypermarkets,0.08,2030,341.3248637
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2017,104.2942961
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2018,112.7104094
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2019,122.0263206
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2020,89.67216366
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2021,96.80320289
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2022,104.768422
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2023,113.5721241
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2024,123.3150109
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2025,134.1111876
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2026,146.0901014
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2027,159.3987816
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2028,174.2044301
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2029,190.6974204
+Asia Pacific,India,Distribution Channel,Specialty Stores,0.09,2030,209.0947744
+Asia Pacific,India,Distribution Channel,Online,0.11,2017,72.44431394
+Asia Pacific,India,Distribution Channel,Online,0.11,2018,79.83729159
+Asia Pacific,India,Distribution Channel,Online,0.11,2019,88.14411193
+Asia Pacific,India,Distribution Channel,Online,0.11,2020,82.70222849
+Asia Pacific,India,Distribution Channel,Online,0.11,2021,77.18252285
+Asia Pacific,India,Distribution Channel,Online,0.11,2022,85.11346725
+Asia Pacific,India,Distribution Channel,Online,0.11,2023,93.9714891
+Asia Pacific,India,Distribution Channel,Online,0.11,2024,103.8775912
+Asia Pacific,India,Distribution Channel,Online,0.11,2025,114.969964
+Asia Pacific,India,Distribution Channel,Online,0.11,2026,127.406611
+Asia Pacific,India,Distribution Channel,Online,0.11,2027,141.3684003
+Asia Pacific,India,Distribution Channel,Online,0.11,2028,157.0626171
+Asia Pacific,India,Distribution Channel,Online,0.11,2029,174.7271024
+Asia Pacific,India,Distribution Channel,Online,0.11,2030,194.6350812
+Asia Pacific,India,Distribution Channel,Others,0.08,2017,105.8003736
+Asia Pacific,India,Distribution Channel,Others,0.08,2018,112.9611397
+Asia Pacific,India,Distribution Channel,Others,0.08,2019,120.7691473
+Asia Pacific,India,Distribution Channel,Others,0.08,2020,91.74856996
+Asia Pacific,India,Distribution Channel,Others,0.08,2021,102.2488203
+Asia Pacific,India,Distribution Channel,Others,0.08,2022,109.2256196
+Asia Pacific,India,Distribution Channel,Others,0.08,2023,117.6409454
+Asia Pacific,India,Distribution Channel,Others,0.08,2024,126.8933648
+Asia Pacific,India,Distribution Channel,Others,0.08,2025,137.0778754
+Asia Pacific,India,Distribution Channel,Others,0.08,2026,148.3014168
+Asia Pacific,India,Distribution Channel,Others,0.08,2027,160.6845003
+Asia Pacific,India,Distribution Channel,Others,0.08,2028,174.3630768
+Asia Pacific,India,Distribution Channel,Others,0.08,2029,189.4906801
+Asia Pacific,India,Distribution Channel,Others,0.08,2030,206.2408876
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2017,383.1511592
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2018,411.4555746
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2019,442.6494336
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2020,323.2284934
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2021,346.7252048
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2022,372.8789574
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2023,401.6512107
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2024,433.3424104
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2025,468.291436
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2026,506.8809636
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2027,549.5436336
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2028,596.7691506
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2029,649.1124676
+Asia Pacific,Rest of Asia Pacific,Product,Spring Water,0.08,2030,707.2032291
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2017,244.7620062
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2018,264.9482763
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2019,287.3106894
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2020,211.4680821
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2021,228.6407664
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2022,247.832978
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2023,269.0625893
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2024,292.5759661
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2025,318.6524268
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2026,347.6090281
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2027,379.8060956
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2028,415.6536224
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2029,455.6186805
+Asia Pacific,Rest of Asia Pacific,Product,Sparkling Water,0.09,2030,500.2340149
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2017,524.5411628
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2018,564.0556048
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2019,607.645821
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2020,444.3180779
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2021,477.2716336
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2022,513.9798363
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2023,554.4053695
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2024,598.9793361
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2025,648.1885096
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2026,702.5831697
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2027,762.786124
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2028,829.5031056
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2029,903.5347703
+Asia Pacific,Rest of Asia Pacific,Product,Mineral Water,0.08,2030,985.7905561
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2017,99.90713579
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2018,107.7194984
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2019,116.3530701
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2020,85.30523941
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2021,91.87581475
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2022,99.20532671
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2023,107.2924453
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2024,116.2266825
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2025,126.1092957
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2026,137.0549655
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2027,149.1937294
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2028,162.6732166
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2029,177.6612289
+Asia Pacific,Rest of Asia Pacific,Product,Others,0.09,2030,194.3487295
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2017,523.6559834
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2018,561.6280119
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2019,603.4457381
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2020,386.880281
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2021,437.2041263
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2022,469.3744562
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2023,502.5430318
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2024,538.9278821
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2025,578.8868099
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2026,622.8222381
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2027,671.1872931
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2028,724.4927814
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2029,783.3151996
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Supermarkets & Hypermarkets,0.08,2030,848.305941
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2017,268.2552506
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2018,289.3430925
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2019,312.6545693
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2020,229.3146682
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2021,247.0743066
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2022,266.8902319
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2023,288.7614314
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2024,312.9315031
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2025,339.6760997
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2026,369.3075186
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2027,402.1799976
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2028,438.6958304
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2029,479.3124397
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Specialty Stores,0.09,2030,524.5505636
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2017,172.4534851
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2018,190.0462089
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2019,209.8133989
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2020,210.4160428
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2021,195.9406974
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2022,215.6852128
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2023,237.7022321
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2024,262.2846399
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2025,289.7664536
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2026,320.5290416
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2027,355.0083435
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2028,393.7032623
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2029,437.1854295
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Online,0.11,2030,486.1105814
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2017,287.9967449
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2018,307.1616408
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2019,328.0453079
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2020,237.7089008
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2021,264.2942893
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2022,281.9471975
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2023,303.4049194
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2024,326.9803699
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2025,352.9123049
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2026,381.4693286
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2027,412.9539484
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2028,447.707221
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2029,486.1140786
+Asia Pacific,Rest of Asia Pacific,Distribution Channel,Others,0.08,2030,528.6094437
+Central & South America,Brazil,Product,Spring Water,0.07,2017,310.6634443
+Central & South America,Brazil,Product,Spring Water,0.07,2018,328.0224643
+Central & South America,Brazil,Product,Spring Water,0.07,2019,347.0800412
+Central & South America,Brazil,Product,Spring Water,0.07,2020,249.3402421
+Central & South America,Brazil,Product,Spring Water,0.07,2021,263.2090206
+Central & South America,Brazil,Product,Spring Water,0.07,2022,278.6322311
+Central & South America,Brazil,Product,Spring Water,0.07,2023,295.5100675
+Central & South America,Brazil,Product,Spring Water,0.07,2024,313.9944757
+Central & South America,Brazil,Product,Spring Water,0.07,2025,334.2558285
+Central & South America,Brazil,Product,Spring Water,0.07,2026,356.4853518
+Central & South America,Brazil,Product,Spring Water,0.07,2027,380.8978986
+Central & South America,Brazil,Product,Spring Water,0.07,2028,407.7351248
+Central & South America,Brazil,Product,Spring Water,0.07,2029,437.2691275
+Central & South America,Brazil,Product,Spring Water,0.07,2030,469.8066198
+Central & South America,Brazil,Product,Sparkling Water,0.08,2017,191.3341298
+Central & South America,Brazil,Product,Sparkling Water,0.08,2018,203.6636071
+Central & South America,Brazil,Product,Sparkling Water,0.08,2019,217.2379887
+Central & South America,Brazil,Product,Sparkling Water,0.08,2020,157.3199148
+Central & South America,Brazil,Product,Sparkling Water,0.08,2021,167.4042022
+Central & South America,Brazil,Product,Sparkling Water,0.08,2022,178.632481
+Central & South America,Brazil,Product,Sparkling Water,0.08,2023,190.9652034
+Central & South America,Brazil,Product,Sparkling Water,0.08,2024,204.5249966
+Central & South America,Brazil,Product,Sparkling Water,0.08,2025,219.4499601
+Central & South America,Brazil,Product,Sparkling Water,0.08,2026,235.8957911
+Central & South America,Brazil,Product,Sparkling Water,0.08,2027,254.038226
+Central & South America,Brazil,Product,Sparkling Water,0.08,2028,274.0758479
+Central & South America,Brazil,Product,Sparkling Water,0.08,2029,296.2333181
+Central & South America,Brazil,Product,Sparkling Water,0.08,2030,320.7651009
+Central & South America,Brazil,Product,Mineral Water,0.07,2017,421.5192608
+Central & South America,Brazil,Product,Mineral Water,0.07,2018,445.6650293
+Central & South America,Brazil,Product,Mineral Water,0.07,2019,472.1873446
+Central & South America,Brazil,Product,Mineral Water,0.07,2020,339.6713034
+Central & South America,Brazil,Product,Mineral Water,0.07,2021,359.0468202
+Central & South America,Brazil,Product,Mineral Water,0.07,2022,380.598937
+Central & South America,Brazil,Product,Mineral Water,0.07,2023,404.2001608
+Central & South America,Brazil,Product,Mineral Water,0.07,2024,430.0671608
+Central & South America,Brazil,Product,Mineral Water,0.07,2025,458.4430995
+Central & South America,Brazil,Product,Mineral Water,0.07,2026,489.601153
+Central & South America,Brazil,Product,Mineral Water,0.07,2027,523.8485398
+Central & South America,Brazil,Product,Mineral Water,0.07,2028,561.531138
+Central & South America,Brazil,Product,Mineral Water,0.07,2029,603.0387802
+Central & South America,Brazil,Product,Mineral Water,0.07,2030,648.8113346
+Central & South America,Brazil,Product,Others,0.07,2017,78.80777223
+Central & South America,Brazil,Product,Others,0.07,2018,83.54561648
+Central & South America,Brazil,Product,Others,0.07,2019,88.75490451
+Central & South America,Brazil,Product,Others,0.07,2020,64.01757368
+Central & South America,Brazil,Product,Others,0.07,2021,67.85052358
+Central & South America,Brazil,Product,Others,0.07,2022,72.11587747
+Central & South America,Brazil,Product,Others,0.07,2023,76.7927901
+Central & South America,Brazil,Product,Others,0.07,2024,81.92573312
+Central & South America,Brazil,Product,Others,0.07,2025,87.56469398
+Central & South America,Brazil,Product,Others,0.07,2026,93.76592023
+Central & South America,Brazil,Product,Others,0.07,2027,100.5927728
+Central & South America,Brazil,Product,Others,0.07,2028,108.1167053
+Central & South America,Brazil,Product,Others,0.07,2029,116.4183891
+Central & South America,Brazil,Product,Others,0.07,2030,125.5890081
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2017,409.1649124
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2018,431.2834828
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2019,455.5566997
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2020,286.2152788
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2021,318.5651755
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2022,336.5104289
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2023,354.8583163
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2024,374.9064038
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2025,396.8264501
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2026,420.810651
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2027,447.0742694
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2028,475.8586354
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2029,507.434574
+Central & South America,Brazil,Distribution Channel,Supermarkets & Hypermarkets,0.06,2030,542.1063227
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2017,194.2278626
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2018,206.0940941
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2019,219.1465978
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2020,158.2133642
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2021,167.8416845
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2022,178.558806
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2023,190.3161586
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2024,203.2270274
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2025,217.4188272
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2026,233.0350201
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2027,250.2373161
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2028,269.2081995
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2029,290.1538341
+Central & South America,Brazil,Distribution Channel,Specialty Stores,0.07,2030,313.3074071
+Central & South America,Brazil,Distribution Channel,Online,0.09,2017,146.3067158
+Central & South America,Brazil,Distribution Channel,Online,0.09,2018,158.250937
+Central & South America,Brazil,Distribution Channel,Online,0.09,2019,171.5313433
+Central & South America,Brazil,Distribution Channel,Online,0.09,2020,166.7698312
+Central & South America,Brazil,Distribution Channel,Online,0.09,2021,162.2409992
+Central & South America,Brazil,Distribution Channel,Online,0.09,2022,175.3530548
+Central & South America,Brazil,Distribution Channel,Online,0.09,2023,189.8172651
+Central & South America,Brazil,Distribution Channel,Online,0.09,2024,205.7933195
+Central & South America,Brazil,Distribution Channel,Online,0.09,2025,223.4617999
+Central & South America,Brazil,Distribution Channel,Online,0.09,2026,243.0271563
+Central & South America,Brazil,Distribution Channel,Online,0.09,2027,264.7211373
+Central & South America,Brazil,Distribution Channel,Online,0.09,2028,288.806749
+Central & South America,Brazil,Distribution Channel,Online,0.09,2029,315.5828284
+Central & South America,Brazil,Distribution Channel,Online,0.09,2030,345.3893344
+Central & South America,Brazil,Distribution Channel,Others,0.07,2017,252.6251163
+Central & South America,Brazil,Distribution Channel,Others,0.07,2018,265.2682033
+Central & South America,Brazil,Distribution Channel,Others,0.07,2019,279.0256382
+Central & South America,Brazil,Distribution Channel,Others,0.07,2020,199.1505598
+Central & South America,Brazil,Distribution Channel,Others,0.07,2021,208.8627074
+Central & South America,Brazil,Distribution Channel,Others,0.07,2022,219.5572369
+Central & South America,Brazil,Distribution Channel,Others,0.07,2023,232.4764817
+Central & South America,Brazil,Distribution Channel,Others,0.07,2024,246.5856155
+Central & South America,Brazil,Distribution Channel,Others,0.07,2025,262.006505
+Central & South America,Brazil,Distribution Channel,Others,0.07,2026,278.8753887
+Central & South America,Brazil,Distribution Channel,Others,0.07,2027,297.3447145
+Central & South America,Brazil,Distribution Channel,Others,0.07,2028,317.585232
+Central & South America,Brazil,Distribution Channel,Others,0.07,2029,339.7883784
+Central & South America,Brazil,Distribution Channel,Others,0.07,2030,364.1689991
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2017,150.9606666
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2018,158.1861377
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2019,166.102803
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2020,118.4168092
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2021,124.0470508
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2022,130.3084647
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2023,137.1386681
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2024,144.592796
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2025,152.7323845
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2026,161.6261684
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2027,171.3509899
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2028,181.9928312
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2029,193.6479929
+Central & South America,Rest of Central & South America,Product,Spring Water,0.06,2030,206.4244373
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2017,95.90884816
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2018,101.3059742
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2019,107.2271312
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2020,77.0533734
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2021,81.35888037
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2022,86.14323191
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2023,91.37521708
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2024,97.10133668
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2025,103.3736824
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2026,110.2506671
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2027,117.7978579
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2028,126.08893
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2029,135.2067569
+Central & South America,Rest of Central & South America,Product,Sparkling Water,0.07,2030,145.2446607
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2017,206.8234173
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2018,217.0167513
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2019,228.1880086
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2020,162.9004695
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2021,170.879775
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2022,179.7521995
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2023,189.4353463
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2024,200.0089357
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2025,211.5620135
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2026,224.1941255
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2027,238.0166551
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2028,253.1543473
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2029,269.7470472
+Central & South America,Rest of Central & South America,Product,Mineral Water,0.06,2030,287.9516852
+Central & South America,Rest of Central & South America,Product,Others,0.06,2017,38.92948663
+Central & South America,Rest of Central & South America,Product,Others,0.06,2018,40.95745943
+Central & South America,Rest of Central & South America,Product,Others,0.06,2019,43.18100944
+Central & South America,Rest of Central & South America,Product,Others,0.06,2020,30.90878751
+Central & South America,Rest of Central & South America,Product,Others,0.06,2021,32.50943348
+Central & South America,Rest of Central & South America,Product,Others,0.06,2022,34.28873834
+Central & South America,Rest of Central & South America,Product,Others,0.06,2023,36.23233442
+Central & South America,Rest of Central & South America,Product,Others,0.06,2024,38.35678205
+Central & South America,Rest of Central & South America,Product,Others,0.06,2025,40.68060342
+Central & South America,Rest of Central & South America,Product,Others,0.06,2026,43.22453392
+Central & South America,Rest of Central & South America,Product,Others,0.06,2027,46.01180869
+Central & South America,Rest of Central & South America,Product,Others,0.06,2028,49.06848969
+Central & South America,Rest of Central & South America,Product,Others,0.06,2029,52.42383937
+Central & South America,Rest of Central & South America,Product,Others,0.06,2030,56.11074799
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2017,206.6971186
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2018,216.3409779
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2019,226.907936
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2020,142.1259234
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2021,156.8138156
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2022,164.4912356
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2023,172.2790662
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2024,180.7691681
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2025,190.0275834
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2026,200.1279296
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2027,211.1523257
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2028,223.1924442
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2029,236.3507066
+Central & South America,Rest of Central & South America,Distribution Channel,Supermarkets & Hypermarkets,0.05,2030,250.7416438
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2017,102.8875223
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2018,108.204521
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2019,114.0340727
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2020,81.59327052
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2021,85.78539945
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2022,90.44574887
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2023,95.53592576
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2024,101.0991206
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2025,107.1836334
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2026,113.8435273
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2027,121.139373
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2028,129.1390989
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2029,137.918962
+Central & South America,Rest of Central & South America,Distribution Channel,Specialty Stores,0.06,2030,147.5646578
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2017,69.88494618
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2018,75.0656875
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2019,80.79897081
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2020,78.51766299
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2021,75.66798034
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2022,81.19091087
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2023,87.24827881
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2024,93.89970675
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2025,101.2122229
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2026,109.2612673
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2027,118.1318439
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2028,127.9198438
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2029,138.7335631
+Central & South America,Rest of Central & South America,Distribution Channel,Online,0.08,2030,150.6954497
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2017,113.1528316
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2018,117.8551362
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2019,122.9579727
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2020,87.04258275
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2021,90.52794426
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2022,94.36473913
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2023,99.11829516
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2024,104.291855
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2025,109.9252441
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2026,116.0627708
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2027,122.753769
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2028,130.0532112
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2029,138.0224047
+Central & South America,Rest of Central & South America,Distribution Channel,Others,0.06,2030,146.7297799
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2017,56.109023
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2018,59.21094117
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2019,62.61557876
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2020,44.95707686
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2021,47.43052435
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2022,50.18090688
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2023,53.18975004
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2024,56.48390307
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2025,60.09345891
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2026,64.05217946
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2027,68.39798158
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2028,73.1734932
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2029,78.42669022
+Middle East & Africa,South Africa,Product,Spring Water,0.07,2030,84.21162679
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2017,36.15800874
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2018,38.46220318
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2019,40.99817732
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2020,29.67016016
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2021,31.55072166
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2022,33.64414111
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2023,35.94252882
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2024,38.46851643
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2025,41.24757897
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2026,44.30842374
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2027,47.68343682
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2028,51.40919627
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2029,55.5270625
+Middle East & Africa,South Africa,Product,Sparkling Water,0.08,2030,60.08385838
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2017,77.43236799
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2018,81.82538585
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2019,86.64966465
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2020,62.29928757
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2021,65.81814207
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2022,69.73182621
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2023,74.01632156
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2024,78.71064107
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2025,83.85855107
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2026,89.50920035
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2027,95.71783999
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2028,102.5466476
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2029,110.0656727
+Middle East & Africa,South Africa,Product,Mineral Water,0.07,2030,118.3539211
+Middle East & Africa,South Africa,Product,Others,0.07,2017,14.60121631
+Middle East & Africa,South Africa,Product,Others,0.07,2018,15.47081776
+Middle East & Africa,South Africa,Product,Others,0.07,2019,16.42669712
+Middle East & Africa,South Africa,Product,Others,0.07,2020,11.84197236
+Middle East & Africa,South Africa,Product,Others,0.07,2021,12.54421908
+Middle East & Africa,South Africa,Product,Others,0.07,2022,13.32556258
+Middle East & Africa,South Africa,Product,Others,0.07,2023,14.18201605
+Middle East & Africa,South Africa,Product,Others,0.07,2024,15.12165578
+Middle East & Africa,South Africa,Product,Others,0.07,2025,16.15355606
+Middle East & Africa,South Africa,Product,Others,0.07,2026,17.28792336
+Middle East & Africa,South Africa,Product,Others,0.07,2027,18.53625004
+Middle East & Africa,South Africa,Product,Others,0.07,2028,19.91149072
+Middle East & Africa,South Africa,Product,Others,0.07,2029,21.42826479
+Middle East & Africa,South Africa,Product,Others,0.07,2030,23.10308927
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2017,74.91792678
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2018,78.96661488
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2019,83.40942226
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2020,52.38138777
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2021,58.31154081
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2022,61.61299566
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2023,64.93679177
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2024,68.5676631
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2025,72.53645818
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2026,76.87768341
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2027,81.62997181
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2028,86.83661759
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2029,92.54618645
+Middle East & Africa,South Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2030,98.81321296
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2017,38.74224864
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2018,41.06480987
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2019,43.61828943
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2020,31.45613299
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2021,33.33411269
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2022,35.42385892
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2023,37.71502507
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2024,40.22934379
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2025,42.99124025
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2026,46.02819498
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2027,49.3711599
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2028,53.05503563
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2029,57.11921986
+Middle East & Africa,South Africa,Distribution Channel,Specialty Stores,0.07,2030,61.60823804
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2017,27.06309824
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2018,29.25893192
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2019,31.69956072
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2020,30.75044832
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2021,28.35331801
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2022,30.65630364
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2023,33.1962914
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2024,36.00124541
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2025,39.10278076
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2026,42.53668261
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2027,46.34350429
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2028,50.56925745
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2029,55.26620909
+Middle East & Africa,South Africa,Distribution Channel,Online,0.09,2030,60.49380331
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2017,43.57734237
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2018,45.67899129
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2019,47.96284543
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2020,34.18052786
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2021,37.34463564
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2022,39.18927857
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2023,41.48250823
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2024,43.98646405
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2025,46.72266582
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2026,49.71516591
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2027,52.99087242
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2028,56.57991713
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2029,60.51607476
+Middle East & Africa,South Africa,Distribution Channel,Others,0.07,2030,64.83724124
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2017,524.1599461
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2018,554.8837519
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2019,588.6468834
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2020,423.9810332
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2021,448.7306459
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2022,476.2656941
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2023,506.4368539
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2024,539.5257785
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2025,575.848795
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2026,615.7615451
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2027,659.6643015
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2028,708.008065
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2029,761.3015625
+Middle East & Africa,Rest of Middle East & Africa,Product,Spring Water,0.07,2030,820.1192905
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2017,333.897983
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2018,356.3058984
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2019,381.0098951
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2020,276.616293
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2021,295.0914711
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2022,315.6818812
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2023,338.3335523
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2024,363.2800161
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2025,390.7847346
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2026,421.145277
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2027,454.6981255
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2028,491.8242117
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2029,532.9553017
+Middle East & Africa,Rest of Middle East & Africa,Product,Sparkling Water,0.08,2030,578.581368
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2017,718.7841338
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2018,761.9509064
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2019,809.4168871
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2020,583.7923253
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2021,618.7202725
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2022,657.5922901
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2023,700.2186256
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2024,747.0052584
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2025,798.4085782
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2026,854.9421945
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2027,917.1847447
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2028,985.7888577
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2029,1061.491454
+Middle East & Africa,Rest of Middle East & Africa,Product,Mineral Water,0.07,2030,1145.125597
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2017,136.4183613
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2018,144.9964242
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2019,154.4393523
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2020,111.6860566
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2021,118.6832004
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2022,126.4752098
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2023,135.0316634
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2024,144.4369655
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2025,154.7861536
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2026,166.1863564
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2027,178.7584687
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2028,192.6390771
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2029,207.982677
+Middle East & Africa,Rest of Middle East & Africa,Product,Others,0.07,2030,224.9642267
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2017,690.630663
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2018,730.0866892
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2019,773.4287061
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2020,500.4931413
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2021,558.2739248
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2022,591.6360592
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2023,625.2700525
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2024,662.0551998
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2025,702.3164403
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2026,746.4178521
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2027,794.7677636
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2028,847.8245935
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2029,906.1035311
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Supermarkets & Hypermarkets,0.06,2030,970.1841849
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2017,365.6743187
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2018,388.9911285
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2019,414.6696163
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2020,300.1277158
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2021,319.1981438
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2022,340.4407483
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2023,363.7791625
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2024,389.4463884
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2025,417.704933
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2026,448.8508757
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2027,483.2185435
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2028,521.1858885
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2029,563.1806834
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Specialty Stores,0.08,2030,609.6876642
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2017,248.2208566
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2018,269.4726209
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2019,293.1624247
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2020,286.3351277
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2021,279.5072688
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2022,303.067699
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2023,329.1160542
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2024,357.9524797
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2025,389.9171199
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2026,425.3959116
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2027,464.8272762
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2028,508.7098593
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2029,557.6114915
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Online,0.09,2030,612.1795756
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2017,408.7345859
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2018,429.5865424
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2019,452.2522708
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2020,309.1197232
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2021,324.2462524
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2022,340.8705687
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2023,361.855426
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2024,384.7939506
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2025,409.8897683
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2026,437.3707335
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2027,467.4920571
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2028,500.5398702
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2029,536.8352894
+Middle East & Africa,Rest of Middle East & Africa,Distribution Channel,Others,0.07,2030,576.7390574
